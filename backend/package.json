@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "proxy":"https://task-manager-flame-eight.vercel.app/login",
   "scripts": {
     "start": "nodemon server.js",
     "dev": "nodemon server.js",
